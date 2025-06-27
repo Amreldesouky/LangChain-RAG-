@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Department,Position,Salary,JoinDate,Email
+101,John,Doe,Engineering,Software Engineer,85000,2019-04-15,john.doe@technova.com
+102,Jane,Smith,Marketing,Marketing Manager,75000,2020-08-01,jane.smith@technova.com
+103,Ahmed,Hassan,Sales,Sales Executive,62000,2021-03-10,ahmed.hassan@technova.com
+104,Sara,Lee,Engineering,Data Analyst,70000,2022-01-05,sara.lee@technova.com
+105,David,Wong,Finance,Accountant,68000,2018-11-20,david.wong@technova.com
+106,Linda,Kumar,Human Resources,HR Specialist,60000,2023-06-01,linda.kumar@technova.com
+107,Omar,Nasr,Engineering,DevOps Engineer,88000,2019-07-25,omar.nasr@technova.com
+108,Emily,Clark,Design,UI/UX Designer,73000,2020-12-17,emily.clark@technova.com
+109,Michael,Brown,Support,Technical Support,50000,2021-09-09,michael.brown@technova.com
+110,Amina,Youssef,Product,Product Manager,92000,2018-02-14,amina.youssef@technova.com
